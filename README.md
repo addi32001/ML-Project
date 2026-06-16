@@ -9,13 +9,14 @@ cource activate ./env
 '''
 
 # git commands
-'''
-git init
-'''
 
-'''
+```
+git init
+```
+
+```
 git add .
-'''
+```
 
 '''
 git commit -m "first commit"
