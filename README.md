@@ -1,11 +1,11 @@
-# create a virtual environment
+# create a virtual environment(in git bass command)
 
 ```
-conda create -p env python=3.8 -y (in git base command)
+conda create -p env python=3.8 -y 
 ```
 
 ```
-cource activate ./env
+source activate ./env
 ```
 
 # git commands
