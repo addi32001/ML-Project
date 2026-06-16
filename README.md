@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## create a virtual environment
 '''''
 '''''
@@ -16,7 +15,6 @@ conda create -p env python=3.8 -y
 ```
 source activate ./env
 ```
->>>>>>> 00daa393d5f8709751ae5ead885d59f4597c1cf2
 
 # git commands
 
