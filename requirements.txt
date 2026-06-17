@@ -2,5 +2,5 @@ pandas
 numpy
 Flask
 seaborn
-
+ipykernel
 -e .
