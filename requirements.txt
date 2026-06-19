@@ -3,4 +3,7 @@ numpy
 Flask
 seaborn
 ipykernel
+matplotlib
+scikit-learn
+
 -e .
